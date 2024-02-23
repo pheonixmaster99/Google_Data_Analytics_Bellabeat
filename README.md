@@ -20,9 +20,12 @@ The three key questions that guide the marketing strategy:
 3. How could these trends help influence Bellabeat marketing strategy?
 
 ## Stakeholders
-○ Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
-○ Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
-○ Bellabeat marketing analytics team: A team of data analysts responsible for collecting, analyzing, and
+- Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
+- Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
+- Bellabeat marketing analytics team: A team of data analysts responsible for collecting, analyzing, and
 reporting data that helps guide Bellabeat’s marketing strategy. You joined this team six months ago and have
 been busy learning about Bellabeat’’s mission and business goals — as well as how you, as a junior data analyst,
 can help Bellabeat achieve them.
+
+# Prepare
+## Data Collection
