@@ -94,3 +94,35 @@ The business task we have to solve for is **"[Using] smart device usage data to 
 2) What time of the day, is the data collected the most often? Any variation in pattern between morning, afternoon, and evening?
 
 Together, these questions set the framework of how to approach answering this bsiness task, as insight into how non-Bellabeat smart devices are currently used gives us an insight into how Bellabeat could be poentially further targeted towards those market segments. 
+
+To answer the above questions, it is important to take a look at the summaries for the datasets of **daily_activity**, **daily_sleep**.
+
+*Note: The daily_activity dataset contains the same rows as daily_calories, daily_steps, and daily_intensity datasets. For this reason, the summary was only determined using the daily_sleep and daily_activity datasets.*
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/688e32e2-f915-4e9a-b58b-916681fdbfd8)
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/be0541c3-37c7-4df4-8fe0-637c6e03e0a1)
+
+- daily_activity
+  
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/bb1e0553-2632-44ea-92f3-6c3ea9bb6279)
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/105043ff-7d0c-47ef-8f37-6f97a400eeb1)
+
+- daily_sleep
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/2ea4c5fb-839c-412a-a0a5-cc6d1c2a559f)
+
+A couple of observations can be made from the summary above:
+- The average steps taken by people each is 7638 steps. This is less in comparison to the recommended steps by CDC of [10,000 per day](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/10000-steps/art-20317391).
+- The average amount of sedentary minutes per day was 16.5 hours! This means that on average, the lifestyle of the average participant is one with very little movement or exercise. This further is evidenced when realizing that majority of participants are only lightly active for 3 hours per day and not fairly/very active meaning not much physical activity is done.
+-  The total distance walked by the average participant is 5.5km approximately. The CDC recommends that the average person walks 8km per day.
+-  The average amount of calories consumed per day is 2304 calories.  
+- The average time slept by people is approximately 7 hours.This falls in line for adults who are the participants for this [study](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/how-many-hours-of-sleep-are-enough/faq-20057898).
+
+# Share 
+## Merging the Data
+Before visualizing the data, two of the datasets will be merged. The merger will be done through the usage of inner joining the daily_activity and daily_sleep datasets through the 'Id' and 'Date' columns.
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/205a97e5-9c00-487c-bb42-503ae15897cf)
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/72302396-1b95-4ca5-a4bb-a5c32f8d316b)
+
