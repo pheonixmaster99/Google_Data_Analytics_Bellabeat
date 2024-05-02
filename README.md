@@ -126,3 +126,41 @@ Before visualizing the data, two of the datasets will be merged. The merger will
 
 ![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/72302396-1b95-4ca5-a4bb-a5c32f8d316b)
 
+Now, we will look at three cases of scatterplots to understand how devices similar to Bellabeat are being currently used to inform our findings. Consider the first plot below, which is that of
+'Calories v. TotalSteps'
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/49dd40d6-db27-4292-8037-a4942ac50a84)
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/28ebc4b4-3209-4a8f-b6ae-5c21072a520f)
+
+In this image above, we can clearly see that there is correlation between the total steps a participant takes each day and the amount of calories burned. We can quanitfy this further by looking at the correlation coefficient as shown below.
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/bdd15e62-2738-4778-9c59-73dd3e370710)
+
+The Pearson correlation coefficient showcases a value of 0.4 approximately, thus indicating a moderately positive correlationship. This means that the more steps the particpant walks/runs in a day, the more the calories the participant will consume. 
+
+The next plot we look at is that of TotalMinutesAsleep v. TotalTimeInBed as seen below.
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/03f7acb3-c208-4574-934f-7ba8c076fd4d)
+
+In the image above, we can clearly see a positive correlation between the amount of time a person spent in bed to the amount of time they were asleep. In other words, the greater the participant slept, the more time they spent in bed. This is further evidenced by the correlation coefficient of 0.93 approximately.
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/4c4a8f1a-ff2d-4e5d-ad19-fd823bd3d381)
+
+In order to assist users with their sleep quality, Bellabeat should allow customers to set and customize their sleep schedules according to their sleep schedules to ensure consistency. 
+
+The final scatterplot we will look at will be TotalMinutesAsleep v. SedentaryMinutes. 
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/f7a86caa-73a4-4c2b-9dd6-7a8b54429953)
+
+In the image above, we can clearly see a strong negative correlationship. This means that the less active a partcipant is, the less sleep they tend to get. This is also further evidenced by the correlation coefficient as seen below.
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/89fcf019-6270-4e3c-9e7e-722dc6a7dec3)
+
+
+# Act
+After analyzing the FitBit Fitness Tracker data, here are some reccommendations for the Bellabeat marketing strategy based on trends in smart device usage. 
+
+1. As mentioned before, the average number of steps per day is 7,638. The CDC recommends taking a minimum of 10,000 steps per day. According to CDC, taking more steps per day is associated with a progressively lower risk of mortailty which varies by age. Thus, **one strategy that Bellabeat can implement is prompting the user of the device to take 10,000 steps per day atleast.** Bellabeat can combine that with daily notifications, with the the user being able to choose how much they want to be notified.
+2.  As the majority of the participants are lightly active, Bellabeat should offer a progression system that provides a pathway for its users to progress in terms of physical activity and thereby, encourage the users to become fairly active. In addition to this, associate a positive stiumli for the user upon the completion of each level of progression. This positive stimuli could be in the form of badges, membership benefits, and small gifts that encourage the user to further their gains. 
+
