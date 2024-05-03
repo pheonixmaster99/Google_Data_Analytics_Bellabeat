@@ -157,10 +157,24 @@ In the image above, we can clearly see a strong negative correlationship. This m
 
 ![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/89fcf019-6270-4e3c-9e7e-722dc6a7dec3)
 
+Finally, let's take a look at whether the day of the week, affects the activity levels and sleep. 
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/53dc1618-3c82-47e6-857c-966949b1d85c)
+
+![image](https://github.com/pheonixmaster99/Google_Data_Analytics_Bellabeat/assets/91801911/6e273b66-81c7-4ad0-a92b-6825469430ad)
+
+The bar graph above showcases that particpants are the most active on Saturday and the least active on Sunday. 
+
 
 # Act
 After analyzing the FitBit Fitness Tracker data, here are some reccommendations for the Bellabeat marketing strategy based on trends in smart device usage. 
 
 1. As mentioned before, the average number of steps per day is 7,638. The CDC recommends taking a minimum of 10,000 steps per day. According to CDC, taking more steps per day is associated with a progressively lower risk of mortailty which varies by age. Thus, **one strategy that Bellabeat can implement is prompting the user of the device to take 10,000 steps per day atleast.** Bellabeat can combine that with daily notifications, with the the user being able to choose how much they want to be notified.
-2.  As the majority of the participants are lightly active, Bellabeat should offer a progression system that provides a pathway for its users to progress in terms of physical activity and thereby, encourage the users to become fairly active. In addition to this, associate a positive stiumli for the user upon the completion of each level of progression. This positive stimuli could be in the form of badges, membership benefits, and small gifts that encourage the user to further their gains. 
+2.  As the majority of the participants are lightly active, Bellabeat should offer a progression system that provides a pathway for its users to progress in terms of physical activity and thereby, encourage the users to become fairly active. In addition to this, associate a positive stiumli for the user upon the completion of each level of progression. This positive stimuli could be in the form of badges, membership benefits, and small gifts that encourage the user to further their gains.
+3.  To help users improve their quality of sleep, Bellabeat should consider using app notifications the reminds users to get enough rest, alongside prompting them for a set bed time. In addition to this, the app should also remind people activities to do throughout the day to help them reduce their sedentary time. This could be range from brisk walking to jogging around the neighbourhood.
+4.  Bellabeat can also ideas on potential low calorie food throughout the day that covers breakfast, lunch, and dinner in order to assist the participants to help lose weight.
+5.  Bellabeat should target for more activity to be done either at early morning or in the evening. This is specifically because from morning to evening is a common working day for every participant. Thus, optimizing the notification in the early or evening hours of the day, will remind the participant more frequently to do exercise, when their mind is less occupied with job tasks. 
 
+## Next Steps to Expand Findings
+1. Additional data on that is reliable needs to be collected, as the quantity of data was too low to make a definitive conclusion. Additional data such as [heart rate variabilty](https://www.healthline.com/health/stress/stress-measurement#measuring-stress) should be collected to understand the stress levels a person is experiencing and tailor the app to respond to such stress levels. The variation in time between consecutive heartbeats, gives an insight into the mental state of the person (e.g. whether the person is feeling stressed or not)
+2. The data should also be current and not old to get an accurate assessment of the daily habits of the users. As the data was from 2016, it is hard to extrapolate the data to 2024 simply because the habits of the participants could have changed.  
